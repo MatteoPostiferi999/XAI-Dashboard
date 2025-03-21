@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# PyCharm project files
+.idea/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# MacOS system files
+.DS_Store
+
+# Model files or big data
+*.pth
+*.pt
